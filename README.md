@@ -1,5 +1,5 @@
 # projeto-Cinthia
-Arquivos do projeto para o Language Rota
+Arquivos do meu projeto para um site pessoal
 cores
 roxo-escuro 593556
 BF94BB
